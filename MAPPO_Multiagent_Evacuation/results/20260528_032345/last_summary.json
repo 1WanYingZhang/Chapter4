@@ -1,0 +1,13 @@
+{
+  "episode": 2,
+  "global_step": 60,
+  "episode_reward": -12.581586,
+  "episode_steps": 20,
+  "num_evacuated": 0,
+  "arrival_steps": [
+    -1,
+    -1,
+    -1,
+    -1
+  ]
+}

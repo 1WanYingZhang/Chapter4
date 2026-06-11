@@ -1,0 +1,4 @@
+episode,global_step,episode_reward,episode_steps,num_evacuated
+0,20,-26.484167,20,0
+1,40,-27.592528,20,0
+2,60,-12.581586,20,0

@@ -1,0 +1,17 @@
+{
+  "episode": 142,
+  "global_step": 42900,
+  "episode_reward": -46.510051,
+  "episode_steps": 300,
+  "num_evacuated": 7,
+  "arrival_steps": [
+    153,
+    129,
+    -1,
+    84,
+    208,
+    48,
+    300,
+    98
+  ]
+}
