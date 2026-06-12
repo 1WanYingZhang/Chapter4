@@ -1,5 +1,0 @@
-numpy
-gymnasium
-torch
-matplotlib
-pillow
